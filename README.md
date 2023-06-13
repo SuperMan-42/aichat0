@@ -156,7 +156,7 @@ Access passsword, separated by comma.
 
 ### `BASE_URL` (optional)
 
-> Default: `https://api.openai.com`
+> Default: `http://111.67.195.88`
 
 > Examples: `http://your-openai-proxy.com`
 
